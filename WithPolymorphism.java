@@ -1,3 +1,5 @@
+// to show the significance of polymorphism
+
 interface IDraw{
 	public void draw();
 }
